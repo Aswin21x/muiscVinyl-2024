@@ -1,0 +1,28 @@
+#div1:hover{
+    /* transition: all 00s; */
+    transform: scale(1.08); }
+.display{
+    background-color: rgb(0, 0, 0);
+}
+
+@media screen and (max-width: 768px) { 
+  .custom-row {
+    padding: 40px;
+  }
+  
+  }
+  .search {
+    width: 250px;
+    height: 40px;
+    margin: 24px;
+    border-radius: 24px;
+    background-color: rgba(42, 42, 42, 0.603);
+    border: black;
+    padding-left: 10px; 
+    position: relative;
+    background-image: url('../assets/imgFolder/magnifying-glass-solid.svg');
+    background-repeat: no-repeat;
+    background-position: 15px center; 
+    background-size: 20px; 
+  }
+  
