@@ -47,7 +47,7 @@ setTimeout(() => {
 "Explore our curated collection of vinyl genres, featuring timeless classics and contemporary hits across a diverse range including Pop, R&B, Hip-Hop, Classical, Rock, Country, EDM, and Metal. Immerse yourself in the rich tapestry of music history with our latest collections."</p>
 
 <div className='text-center'>
-    <button  onClick={handleDisplay} data-aos="fade-up" className='btn btn-danger  mb-4 w-50 viewmore'>View More <i class="fa-solid fa-angle-right"></i></button>
+    <button  onClick={handleDisplay} data-aos="fade-up" className='btn btn-danger  mb-4 w-50 viewwmore'>View More <i class="fa-solid fa-angle-right"></i></button>
   
 </div>
 <hr />

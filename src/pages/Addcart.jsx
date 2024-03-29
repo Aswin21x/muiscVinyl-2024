@@ -118,11 +118,17 @@ try{
       toast(
         "😍Your order has been successfully placed.\n\nA confirmation email will be sent to you shortly. Thank you for shopping with us!🥳. ",
         {
-          duration: 5000,
+          duration: 4000,
         }
       );
+      setCartData([])
+
+      setTimeout(() => {
+        navigate("/display")
+
+      }, 4000);
+
     }
-    // navigate("/display")
 
   useEffect(()=>{
    

@@ -2,12 +2,10 @@
    .latest{
 background-color: rgb(0, 0, 0);
   } 
-  .effect :hover{
-/* background-color: #405DE6,#F77737,#FCAF45; */
-/* border-radius: 50%; */
-transition: all 2s;
-transform: scale(1.0.5); 
-  }
+  /* .effect :hover{
+transition: all 1s;
+transform: scale(1.1); 
+  } */
  .latest-img{
     opacity: 0.8;
   }
